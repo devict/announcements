@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
 
-## Tue August 16 2016
+## Thu August 25 2016
 
 
 # About Us
@@ -78,7 +78,7 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * August 29th
+  * August 29th, September 12th
   * At the MakeICT Makerspace
 
 
@@ -88,23 +88,36 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
   * Come whenever, leave whenever
 
 
+## Game Dev and Project Potluck
+* Bring food, make games
+* Ask Michael Dorian (@doby162)
+* **Monthly on a Saturday**
+  * September 10th
+
+
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
   * September 13th
 
 
-## devICT Presents
-* Scary JavaScript that Tracks you Online
-* Luke Crouch from Mozilla
-* August 25th at The Labor Party
+## Java Talks
+* jHipster
+* Matt McCandless
+* **Every Third Tuesday 7:00 PM**
+  * September 20th
+
+
+## Next Month's Talk
+* Speech and Facial Recognition with Cognitive Services
+* Jonathon Simon
+* **Every Last Thursday at 7:00 PM**
+  * September 29th
 
 
 
 ## Tonight's event!
 
 
-## Java Talks
-* **Every Third Tuesday 7:00 PM**
-  * August 16th
-  * Kotlin - How and Why
-  * Jacob Moore
+## devICT Presents
+* Scary JavaScript that Tracks you Online
+* Luke Crouch from Mozilla
