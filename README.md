@@ -1,8 +1,8 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-![MakeICT](http://makeict.org/w/images/1/19/Logo-secondary.svg)
+![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu August 25 2016
+## Tue Sep 20 2016
 
 
 # About Us
@@ -38,9 +38,9 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs between **$120 and $300**
+Monthly costs around **$220**
 
-Recurring monthly donations around **$80**
+Recurring monthly donations around **$100**
 
 * Meetup Group
 * Site Hosting
@@ -73,12 +73,17 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 # Upcoming Events
 
+## .NET Night
+* New monthly event focusing on .net
+* Thursday September 22nd
+* The Labor Party
+
 
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * August 29th, September 12th
+  * September 26th, October 
   * At the MakeICT Makerspace
 
 
@@ -92,24 +97,16 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 * Bring food, make games
 * Ask Michael Dorian (@doby162)
 * **Monthly on a Saturday**
-  * September 10th
+  * October ??th
 
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * September 13th
+  * October 11th
 
 
-## Java Talks
-* jHipster
-* Matt McCandless
-* **Every Third Tuesday 7:00 PM**
-  * September 20th
-
-
-## Next Month's Talk
-* Speech and Facial Recognition with Cognitive Services
-* Jonathon Simon
+## devICT Presents
+* Intro to Docker by Jacob Walker
 * **Every Last Thursday at 7:00 PM**
   * September 29th
 
@@ -117,7 +114,8 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 ## Tonight's event!
 
-
-## devICT Presents
-* Scary JavaScript that Tracks you Online
-* Luke Crouch from Mozilla
+## Java Talks
+* jHipster
+* Matt McCandless
+* **Every Third Tuesday 7:00 PM**
+  * September 20th
