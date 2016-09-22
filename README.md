@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Tue Sep 20 2016
+## Thu Sep 22 2016
 
 
 # About Us
@@ -73,17 +73,11 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 # Upcoming Events
 
-## .NET Night
-* New monthly event focusing on .net
-* Thursday September 22nd
-* The Labor Party
-
-
 ## Level Up!
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * September 26th, October 
+  * September 26th, October 10th
   * At the MakeICT Makerspace
 
 
@@ -105,6 +99,10 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
   * October 11th
 
 
+## Java Talks
+* **Every Third Tuesday 7:00 PM**
+
+
 ## devICT Presents
 * Intro to Docker by Jacob Walker
 * **Every Last Thursday at 7:00 PM**
@@ -114,8 +112,6 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 
 ## Tonight's event!
 
-## Java Talks
-* jHipster
-* Matt McCandless
-* **Every Third Tuesday 7:00 PM**
-  * September 20th
+
+## .NET Night
+Welcome & Intro to C#
