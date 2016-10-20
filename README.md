@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Sep 29 2016
+## Thu Oct 20 2016
 
 
 # About Us
@@ -77,7 +77,7 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 * Learn to code for free!
 * Self-directed w/ mentors on-hand
 * **Every other Monday, 5:30-8**
-  * October 10th, 24th
+  * October 24th
   * At the MakeICT Makerspace
 
 
@@ -91,31 +91,28 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 * Bring food, make games
 * Ask Michael Dorian (@doby162)
 * **Monthly on a Saturday**
-  * October 8th
+  * November ??th
 
 
 ## Monthly Hangout
 * **Every Second Tuesday 6:00 - 9:00 PM**
-  * October 11th
+  * November 8th
 
 
 ## Java Talks
 * **Every Third Tuesday 7:00 PM**
 
 
-## Dev Lunch
-* Day after **devICT Presents**
-* Friday 9/30 11:30 AM
-* Pop Up Park
-
-
-## .NET Night
-* **Every Third Thursday 7:00 PM**
+## devICT Presents
+* Web Automation with Selenium
+* October 27th
 
 
 
 ## Tonight's event!
 
 
-## devICT Presents
-* An Informal Intro to Docker
+## .NET Night
+* **Every Third Thursday 7:00 PM**
+* VS Tips and Tricks
+
