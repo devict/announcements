@@ -38,23 +38,18 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$220**
+Monthly costs around **$120**
 
 Recurring monthly donations around **$100**
 
 * Meetup Group
-* Site Hosting
 * The Labor Party membership
-* Food
 
-PayPal donate button on [devict.org](http://devict.org)
-
-Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
+Donate at devict.org/support
 
 
 ## Give a Talk
 * Great way to learn about a topic of interest.
-* Anything related to development is appropriate
 * Could be practice for presentation at a professional conference.
 
 
@@ -70,49 +65,29 @@ Also on Patreon at [patreon.com/devict](https://patreon.com/devict)
 * Wichitalks - wichitalks.com
 
 
-
-# Upcoming Events
-
-## Level Up!
-* Learn to code for free!
-* Self-directed w/ mentors on-hand
-* **Every other Monday, 5:30-8**
-  * October 24th
-  * At the MakeICT Makerspace
+| Event            | Schedule               | When      | Where      | Next    |
+| ---------------- | ---------------------- | --------- | ---------- | ------- |
+| dev Lunch        | Day after Presents     | 11:30     | TLP        | 11/03   |
+| Code & Coffee    | Every Thursday         | Mornings? | TLP        | 11/03   |
+| Study Hall       | Monday evenings        | 7-9 PM    | TLP        | 11/07   |
+| Hangout          | Second Tuesdays        | 7-9 PM    | TLP?       | 11/08   |
 
 
-## Code and Coffee
-* A weekly communal coding session.
-* **Every Thursday starting at 7:00 AM**
-  * Come whenever, leave whenever
+| Event            | Schedule               | When | Where      | Next     |
+| ---------------- | ---------------------- | ---- | ---------- | -------  |
+| Game Dev Potluck | Second Saturdays       | 8 AM | TLP        | 11/12    |
+| Java Talks       | Third Tuesdays         | 7 PM | High Touch | 11/15    |
+| .Net Night       | Third Thursdays        | 7 PM | TLP        | 11/17    |
+| devICT Presents  | Last Thursdays         | 7 PM | TLP        | 01/26/17 |
 
 
-## Game Dev and Project Potluck
-* Bring food, make games
-* Ask Michael Dorian (@doby162)
-* **Monthly on a Saturday**
-  * November ??th
+# Mentorship Program
 
-
-## Monthly Hangout
-* **Every Second Tuesday 6:00 - 9:00 PM**
-  * November 8th
-
-
-## Java Talks
-* **Every Third Tuesday 7:00 PM**
-
-
-## devICT Presents
-* Web Automation with Selenium
-* October 27th
+* Coming soon
+* Ping jcbwlkr if you want to be a mentor
 
 
 
-## Tonight's event!
+# Tonight's event!
 
-
-## .NET Night
-* **Every Third Thursday 7:00 PM**
-* VS Tips and Tricks
-
+Web Automation with Selenium
