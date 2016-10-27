@@ -67,7 +67,7 @@ Donate at devict.org/support
 
 | Event            | Schedule               | When      | Where      | Next    |
 | ---------------- | ---------------------- | --------- | ---------- | ------- |
-| dev Lunch        | Day after Presents     | 11:30     | TLP        | 11/03   |
+| dev Lunch        | Day after Presents     | 11:30     | Picasso's  | 11/03   |
 | Code & Coffee    | Every Thursday         | Mornings? | TLP        | 11/03   |
 | Study Hall       | Monday evenings        | 7-9 PM    | TLP        | 11/07   |
 | Hangout          | Second Tuesdays        | 7-9 PM    | TLP?       | 11/08   |
