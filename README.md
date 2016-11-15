@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Oct 20 2016
+## Tue Nov 15 2016
 
 
 # About Us
