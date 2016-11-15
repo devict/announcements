@@ -65,29 +65,29 @@ Donate at devict.org/support
 * Wichitalks - wichitalks.com
 
 
-| Event            | Schedule               | When      | Where      | Next    |
-| ---------------- | ---------------------- | --------- | ---------- | ------- |
-| dev Lunch        | Day after Presents     | 11:30     | Picasso's  | 11/03   |
-| Code & Coffee    | Every Thursday         | Mornings? | TLP        | 11/03   |
-| Study Hall       | Monday evenings        | 7-9 PM    | TLP        | 11/07   |
-| Hangout          | Second Tuesdays        | 7-9 PM    | TLP?       | 11/08   |
+| Event            | Schedule               | When     | Where      | Next     |
+| ---------------- | ---------------------- | -------- | ---------- | -------  |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 11/17    |
+| Study Hall       | Monday evenings        | 7-9 PM   | TLP        | 11/21    |
+| Hangout          | Second Tuesdays        | 7-9 PM   | TLP?       | 12/13    |
+| Game Dev Potluck | Second Saturdays       | 8 AM     | TLP        | 12/10    |
 
 
-| Event            | Schedule               | When | Where      | Next     |
-| ---------------- | ---------------------- | ---- | ---------- | -------  |
-| Game Dev Potluck | Second Saturdays       | 8 AM | TLP        | 11/12    |
-| Java Talks       | Third Tuesdays         | 7 PM | High Touch | 11/15    |
-| .Net Night       | Third Thursdays        | 7 PM | TLP        | 11/17    |
-| devICT Presents  | Last Thursdays         | 7 PM | TLP        | 01/26/17 |
+| Event            | Schedule               | When     | Where      | Next     |
+| ---------------- | ---------------------- | -------- | ---------- | -------  |
+| Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 12/20    |
+| .Net Night       | Third Thursdays        | 7 PM     | TLP        | 11/17    |
+| devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 01/26/17 |
+| dev Lunch        | Day after Presents     | 11:30    | ???        | 01/27/17 |
 
 
 # Mentorship Program
 
-* Coming soon
+* devict.org/mentors
 * Ping jcbwlkr if you want to be a mentor
 
 
 
-# Tonight's event!
+# Java Talks!
 
-Web Automation with Selenium
+Creating REST APIs with Grails
