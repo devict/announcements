@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Tue Nov 15 2016
+## Thu Jan 26 2017
 
 
 # About Us
@@ -38,19 +38,25 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$120**
+Monthly costs around **$100**
 
-Recurring monthly donations around **$100**
+Recurring monthly donations around **$130**
 
 * Meetup Group
 * The Labor Party membership
 
-Donate at devict.org/support
+Donate through devict.org/support
 
 
 ## Give a Talk
 * Great way to learn about a topic of interest.
 * Could be practice for presentation at a professional conference.
+
+
+# Mentorship Program
+
+* devict.org/mentors
+* Ping jcbwlkr if you want to be a mentor
 
 
 
@@ -65,29 +71,30 @@ Donate at devict.org/support
 * Wichitalks - wichitalks.com
 
 
-| Event            | Schedule               | When     | Where      | Next     |
-| ---------------- | ---------------------- | -------- | ---------- | -------  |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 11/17    |
-| Study Hall       | Monday evenings        | 7-9 PM   | TLP        | 11/21    |
-| Hangout          | Second Tuesdays        | 7-9 PM   | TLP?       | 12/13    |
-| Game Dev Potluck | Second Saturdays       | 8 AM     | TLP        | 12/10    |
+
+| Event            | Schedule               | When     | Where      | Next  |
+| ---------------- | ---------------------- | -------- | ---------- | ----- |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 01/30 |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 02/02 |
+| Game Dev Potluck | Second Saturdays       | 8 AM     | TLP        | 02/11 |
+| Hangout          | Second Tuesdays        | 7-9 PM   | TLP?       | 02/14 |
 
 
-| Event            | Schedule               | When     | Where      | Next     |
-| ---------------- | ---------------------- | -------- | ---------- | -------  |
-| Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 12/20    |
-| .Net Night       | Third Thursdays        | 7 PM     | TLP        | 11/17    |
-| devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 01/26/17 |
-| dev Lunch        | Day after Presents     | 11:30    | ???        | 01/27/17 |
+| Event            | Schedule               | When     | Where      | Next  |
+| ---------------- | ---------------------- | -------- | ---------- | ----- |
+| .Net Night       | Third Thursdays        | 7 PM     | TLP        | 02/16 |
+| Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 02/21 |
+| devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 02/23 |
 
 
-# Mentorship Program
+# Next Month
 
-* devict.org/mentors
-* Ping jcbwlkr if you want to be a mentor
+100 Facts in 45 Minutes
 
 
 
-# Java Talks!
+# devICT Presents
 
-Creating REST APIs with Grails
+Angular for Agencies, Entrepreneurs, and Enterprise
+
+Barry Welch and Ben Burrus from LogMeIn.
