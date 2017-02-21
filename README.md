@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Jan 26 2017
+## Tue Feb 21 2017
 
 
 # About Us
@@ -40,7 +40,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$130**
+Recurring monthly donations around **$115**
 
 * Meetup Group
 * The Labor Party membership
@@ -57,6 +57,7 @@ Donate through devict.org/support
 
 * devict.org/mentors
 * Ping jcbwlkr if you want to be a mentor
+* Ping a mentor if you want to be a mentee
 
 
 
@@ -74,27 +75,21 @@ Donate through devict.org/support
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 01/30 |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 02/02 |
-| Game Dev Potluck | Second Saturdays       | 8 AM     | TLP        | 02/11 |
-| Hangout          | Second Tuesdays        | 7-9 PM   | TLP?       | 02/14 |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 02/27 |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 02/23 |
+| Game Dev Potluck | Second Saturdays       | 8 AM     | TLP        | 03/11 |
+| Hangout          | Second Tuesdays        | 7-9 PM   | TLP?       | 03/14 |
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| .Net Night       | Third Thursdays        | 7 PM     | TLP        | 02/16 |
-| Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 02/21 |
 | devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 02/23 |
-
-
-# Next Month
-
-100 Facts in 45 Minutes
+| .Net Night       | Third Thursdays        | 7 PM     | TLP        | 03/16 |
+| Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 03/21 |
 
 
 
-# devICT Presents
 
-Angular for Agencies, Entrepreneurs, and Enterprise
+# Java Talks
 
-Barry Welch and Ben Burrus from LogMeIn.
+Spring Data is Bootiful
