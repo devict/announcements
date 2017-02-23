@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Tue Feb 21 2017
+## Thu Feb 23 2017
 
 
 # About Us
@@ -83,13 +83,13 @@ Donate through devict.org/support
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 02/23 |
 | .Net Night       | Third Thursdays        | 7 PM     | TLP        | 03/16 |
 | Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 03/21 |
+| devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 03/30 |
 
 
 
 
-# Java Talks
+# devICT Presents
 
-Spring Data is Bootiful
+Introducing the Ringa JS framework
