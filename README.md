@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Feb 23 2017
+## Thu Mar 30 2017
 
 
 # About Us
@@ -40,7 +40,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$115**
+Recurring monthly donations around **$106**
 
 * Meetup Group
 * The Labor Party membership
@@ -75,21 +75,21 @@ Donate through devict.org/support
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 02/27 |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 02/23 |
-| Game Dev Potluck | Second Saturdays       | 8 AM     | TLP        | 03/11 |
-| Hangout          | Second Tuesdays        | 7-9 PM   | TLP?       | 03/14 |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 04/03 |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 04/06 |
+| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 04/08 |
+| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 04/11 |
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| .Net Night       | Third Thursdays        | 7 PM     | TLP        | 03/16 |
-| Java Talks       | Third Tuesdays         | 7 PM     | High Touch | 03/21 |
-| devICT Presents  | Last Thursdays         | 7 PM     | TLP        | 03/30 |
+| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 04/18 |
+| .Net Night       | Fourth Tuesday         | 7 PM     | TLP        | 04/25 |
+| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 04/27 |
 
 
 
 
 # devICT Presents
 
-Introducing the Ringa JS framework
+Accessibility for Blind and Visually Impaired Users
