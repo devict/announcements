@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Mar 30 2017
+## Thu April 27 2017
 
 
 # About Us
@@ -32,7 +32,6 @@ Our anti-harassment policy can be found at:
 * Chat daily on Slack
  * Get invite from [devict.org](http://devict.org)
 * Watch past presentations on [devict.org](http://devict.org)
-* [jobs.devict.org](http://jobs.devict.org)
 
 
 ## Donate
@@ -40,7 +39,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$106**
+Recurring monthly donations around **$107**
 
 * Meetup Group
 * The Labor Party membership
@@ -70,26 +69,29 @@ Donate through devict.org/support
 * Startup Wichita - startupwichita.com
 * Shocker Startup - facebook.com/shockerstartup
 * Wichitalks - wichitalks.com
+* Toastmasters - talk to Kim Burton
 
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 04/03 |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 04/06 |
-| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 04/08 |
-| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 04/11 |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 05/01 |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 05/04 |
+| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 05/13 |
+| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 05/09 |
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 04/18 |
-| .Net Night       | Fourth Tuesday         | 7 PM     | TLP        | 04/25 |
-| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 04/27 |
+| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 05/16 |
+| .Net Night       | Fourth Tuesday         | 7 PM     | TLP        | 05/23 |
+| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 05/25 |
 
 
 
 
 # devICT Presents
 
-Accessibility for Blind and Visually Impaired Users
+Lightning Talks!
+
+🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩
