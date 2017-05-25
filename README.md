@@ -2,8 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu April 27 2017
-
+## Thu May 25 2017
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -39,7 +38,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$107**
+Recurring monthly donations around **$115**
 
 * Meetup Group
 * The Labor Party membership
@@ -69,29 +68,26 @@ Donate through devict.org/support
 * Startup Wichita - startupwichita.com
 * Shocker Startup - facebook.com/shockerstartup
 * Wichitalks - wichitalks.com
-* Toastmasters - talk to Kim Burton
 
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 05/01 |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 05/04 |
-| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 05/13 |
-| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 05/09 |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 05/29 |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 06/01 |
+| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 06/03 |
+| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 06/13 |
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 05/16 |
-| .Net Night       | Fourth Tuesday         | 7 PM     | TLP        | 05/23 |
-| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 05/25 |
+| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 06/20 |
+| .Net Night       | Fourth Tuesday         | 7 PM     | TLP        | 06/27 |
+| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 06/29 |
 
 
 
 
 # devICT Presents
 
-Lightning Talks!
-
-🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩🌩
+Building Conversational Chatbots with Amazon Lex
