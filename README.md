@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu May 25 2017
+## Thu Jul 27
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -38,7 +38,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$115**
+Recurring monthly donations around **$116**
 
 * Meetup Group
 * The Labor Party membership
@@ -73,21 +73,32 @@ Donate through devict.org/support
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 05/29 |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 06/01 |
-| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 06/03 |
-| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 06/13 |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 07/31 |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        | 08/03 |
+| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 08/06 |
+| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 08/12 |
 
 
 | Event            | Schedule               | When     | Where      | Next  |
 | ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 06/20 |
-| .Net Night       | Fourth Tuesday         | 7 PM     | TLP        | 06/27 |
-| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 06/29 |
+| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 08/15 |
+| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 08/31 |
 
+
+# ICT GAME JAM
+
+ictgamejam.com!!!1!
+
+This weekend!
+
+
+# Go Web Workshop
+
+* Saturday Aug 5th
+* RSVP on meetup
 
 
 
 # devICT Presents
 
-Building Conversational Chatbots with Amazon Lex
+⚡️⚡️ talks!
