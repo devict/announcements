@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Jul 27
+## Thu Aug 31
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -71,34 +71,24 @@ Donate through devict.org/support
 
 
 
-| Event            | Schedule               | When     | Where      | Next  |
-| ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        | 07/31 |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        | 08/03 |
-| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       | 08/06 |
-| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        | 08/12 |
+| Event            | Schedule               | When     | Where      |
+| ---------------- | ---------------------- | -------- | ---------- |
+| Study Hall       | Every Monday           | 7-9 PM   | TLP        |
+| Code & Coffee    | Every Thursday         | Mornings | TLP        |
+| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       |
+| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        |
 
 
-| Event            | Schedule               | When     | Where      | Next  |
-| ---------------- | ---------------------- | -------- | ---------- | ----- |
-| Java Talks       | Third Tuesday          | 7 PM     | High Touch | 08/15 |
-| devICT Presents  | Last Thursday          | 7 PM     | TLP        | 08/31 |
-
-
-# ICT GAME JAM
-
-ictgamejam.com!!!1!
-
-This weekend!
-
-
-# Go Web Workshop
-
-* Saturday Aug 5th
-* RSVP on meetup
+| Event            | Schedule               | When     | Where      |
+| ---------------- | ---------------------- | -------- | ---------- |
+| Java Talks       | Third Tuesday          | 7 PM     | High Touch |
+| devICT Presents  | Last Thursday          | 7 PM     | TLP        |
 
 
 
 # devICT Presents
 
 ⚡️⚡️ talks!
+
+
+# Accuweather
