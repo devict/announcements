@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Sep 28
+## Thu Oct 25
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -38,7 +38,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$106**
+Recurring monthly donations around **$110**
 
 * Meetup Group
 * The Labor Party membership
@@ -91,4 +91,4 @@ Donate through devict.org/support
 
 # devICT Presents
 
-Get a Jumpstart on Collaboration and Code Review in GitHub
+VueJS: The Good, The Better and The Best
