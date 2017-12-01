@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Oct 25
+## Thu Nov 30
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -38,7 +38,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$100**
 
-Recurring monthly donations around **$110**
+Recurring monthly donations around **$115**
 
 * Meetup Group
 * The Labor Party membership
@@ -83,12 +83,3 @@ Donate through devict.org/support
 | ---------------- | ---------------------- | -------- | ---------- |
 | Java Talks       | Third Tuesday          | 7 PM     | High Touch |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
-
-
-![hacktoberfest](https://devict-hacktoberfest.herokuapp.com/public/images/hacktoberfest-logo.svg)
-
-
-
-# devICT Presents
-
-VueJS: The Good, The Better and The Best
