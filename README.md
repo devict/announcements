@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Nov 30
+## Thu January 25th
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -36,7 +36,7 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$100**
+Monthly costs around **$76**
 
 Recurring monthly donations around **$115**
 
@@ -83,3 +83,23 @@ Donate through devict.org/support
 | ---------------- | ---------------------- | -------- | ---------- |
 | Java Talks       | Third Tuesday          | 7 PM     | High Touch |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
+
+
+# GameJam!
+
+[ictgamejam.com](http://ictgamejam.com)
+
+
+# Next Month
+
+Luke Crouch from Mozilla
+
+How to run your code on the dark web and why you should
+
+
+
+# Tonight!
+
+Firebase, Spend More Time Developing Features
+
+Peter Miles
