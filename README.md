@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu January 25th
+## Thu Feb 22nd
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -36,9 +36,9 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$76**
+Monthly costs around **$100**
 
-Recurring monthly donations around **$115**
+Recurring monthly donations around **$100**
 
 * Meetup Group
 * The Labor Party membership
@@ -75,8 +75,8 @@ Donate through devict.org/support
 | ---------------- | ---------------------- | -------- | ---------- |
 | Study Hall       | Every Monday           | 7-9 PM   | TLP        |
 | Code & Coffee    | Every Thursday         | Mornings | TLP        |
-| Hangout          | Second Tuesday         | 7-9 PM   | TLP?       |
 | Game Dev Potluck | Second Saturday        | 10 AM    | TLP        |
+| Dev Lunch        | Second Friday          | 11:30    | ???        |
 
 
 | Event            | Schedule               | When     | Where      |
@@ -85,21 +85,14 @@ Donate through devict.org/support
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
 
 
-# GameJam!
-
-[ictgamejam.com](http://ictgamejam.com)
-
-
 # Next Month
 
-Luke Crouch from Mozilla
-
-How to run your code on the dark web and why you should
+Lightning Talks!
 
 
 
 # Tonight!
 
-Firebase, Spend More Time Developing Features
+Luke Crouch from Mozilla
 
-Peter Miles
+How to run your code on the dark web and why you should
