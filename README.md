@@ -2,7 +2,7 @@
 
 ![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
 
-## Thu Feb 22nd
+## Thu Mar 29th
 
 # About Us
 * devICT is a program ran by MakeICT members.
@@ -36,14 +36,14 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$100**
+Monthly costs around **$102**
 
-Recurring monthly donations around **$100**
+Recurring monthly donations around **$101**
 
 * Meetup Group
 * The Labor Party membership
 
-Donate through devict.org/support
+Donate through [devict.org/support](http://devict.org/support)
 
 
 ## Give a Talk
@@ -53,7 +53,7 @@ Donate through devict.org/support
 
 # Mentorship Program
 
-* devict.org/mentors
+* [devict.org/mentors](http://devict.org/mentors)
 * Ping jcbwlkr if you want to be a mentor
 * Ping a mentor if you want to be a mentee
 
@@ -77,22 +77,17 @@ Donate through devict.org/support
 | Code & Coffee    | Every Thursday         | Mornings | TLP        |
 | Game Dev Potluck | Second Saturday        | 10 AM    | TLP        |
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
-
-
-| Event            | Schedule               | When     | Where      |
-| ---------------- | ---------------------- | -------- | ---------- |
-| Java Talks       | Third Tuesday          | 7 PM     | High Touch |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
 
 
 # Next Month
 
-Lightning Talks!
+Lightning Talks... with Food!
+
+Sponsored by Ennovar
 
 
 
 # Tonight!
 
-Luke Crouch from Mozilla
-
-How to run your code on the dark web and why you should
+⚡️⚡️Lightning Talks! ⚡️⚡️
