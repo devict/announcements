@@ -82,7 +82,7 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Lightning Talks... with Food!
+Lightning Talks... with Snacks!
 
 Sponsored by Ennovar
 
