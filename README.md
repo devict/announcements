@@ -1,16 +1,10 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-![MakeICT](http://makeict.org/wiki/images/e/ee/MakeICT-Logotype.svg)
-
 ## Thu Mar 29th
 
-# About Us
-* devICT is a program ran by MakeICT members.
-* Check out [http://makeict.org](http://makeict.org)
-
 
 # About Us
-We are a community for Developers.
+We are a community for software developers.
 
 To educate, empower, and connect software developers in the Wichita area.
 
@@ -36,7 +30,7 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$102**
+Monthly costs around **$103**
 
 Recurring monthly donations around **$101**
 
@@ -82,10 +76,9 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Lightning Talks... with Snacks!
+Functional Javascript with Ramda.js
 
-Sponsored by Ennovar
-
+By The Jett Durham
 
 
 # Tonight!
