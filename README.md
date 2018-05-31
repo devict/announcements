@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu Mar 29th
+## Thu May 31st
 
 
 # About Us
@@ -30,9 +30,9 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$103**
+Monthly costs around **$101**
 
-Recurring monthly donations around **$101**
+Recurring monthly donations around **$112** from 22 donors.
 
 * Meetup Group
 * The Labor Party membership
@@ -76,11 +76,14 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Functional Javascript with Ramda.js
+Virtual Reality by Grit
 
-By The Jett Durham
+Down the road at 765 E. 2nd Street, Suite 200
+
 
 
 # Tonight!
 
-⚡️⚡️Lightning Talks! ⚡️⚡️
+Functional Javascript with Ramda.js
+
+By The Jett Durham
