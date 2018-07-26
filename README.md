@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu July 26st
+## Thu July 26th
 
 
 # About Us
