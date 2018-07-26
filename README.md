@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu May 31st
+## Thu July 26st
 
 
 # About Us
@@ -84,6 +84,5 @@ Down the road at 765 E. 2nd Street, Suite 200
 
 # Tonight!
 
-Functional Javascript with Ramda.js
+devICT: Presents: Lighting Talks
 
-By The Jett Durham
