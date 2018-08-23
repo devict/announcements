@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu July 26th
+## Thu August 23rd
 
 
 # About Us
@@ -76,13 +76,12 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Virtual Reality by Grit
-
-Down the road at 765 E. 2nd Street, Suite 200
+GoCreate
 
 
 
 # Tonight!
 
-devICT: Presents: Lighting Talks
+devICT: Presents: Jacob Walker What Even is Concurrency?
+
 
