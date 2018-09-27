@@ -3,10 +3,12 @@
 ## Thu September 27th
 
 
+
 # About Us
 We are a community for software developers.
 
 To educate, empower, and connect software developers in the Wichita area.
+
 
 
 # Code of Conduct
@@ -27,6 +29,7 @@ Our anti-harassment policy can be found at:
 * Watch past presentations on [devict.org](http://devict.org)
 
 
+
 ## Donate
 Membership is free. Donations are appreciated.
 
@@ -40,9 +43,11 @@ Recurring monthly donations around **$112** from 22 donors.
 Donate through [devict.org/support](http://devict.org/support)
 
 
+
 ## Give a Talk
 * Great way to learn about a topic of interest.
 * Could be practice for presentation at a professional conference.
+
 
 
 # Mentorship Program
@@ -72,6 +77,7 @@ Donate through [devict.org/support](http://devict.org/support)
 | Game Dev Potluck | Second Saturday        | 10 AM    | TLP        |
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
+
 
 
 # Next Month
