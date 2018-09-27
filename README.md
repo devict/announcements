@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu August 23rd
+## Thu September 27th
 
 
 # About Us
@@ -76,14 +76,14 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-GoCreate
+Halloween Trivia Night!!!!!
 
 
 
 # Tonight!
 
-devICT: Presents: Jacob Walker 
+devICT: Presents: Adam Olson 
 
-What Even is Concurrency?
+GitLab. Single Application for complete DevOps. 
 
 
