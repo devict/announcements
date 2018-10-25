@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu September 27th
+## Thu October 25th
 
 
 
@@ -82,14 +82,12 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Halloween Trivia Night!!!!!
+Holiday Break!
 
 
 
 # Tonight!
 
-devICT: Presents: Adam Olson 
-
-GitLab. Single Application for complete DevOps. 
+devICT: Presents: Trivia Night!! 
 
 
