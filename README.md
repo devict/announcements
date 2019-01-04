@@ -74,7 +74,7 @@ Donate through [devict.org/support](http://devict.org/support)
 | ---------------- | ---------------------- | -------- | ---------- |
 | Study Hall       | Every Monday           | 7-9 PM   | TLP        |
 | Code & Coffee    | Every Thursday         | Mornings | TLP        |
-| Game Dev Potluck | Second Saturday        | 10 AM    | TLP        |
+| Game Dev Potluck | First Saturday        | 10 AM    | TLP        |
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
 
