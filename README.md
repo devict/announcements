@@ -35,7 +35,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$101**
 
-Recurring monthly donations around **$112** from 22 donors.
+Recurring monthly donations around **$103.03** from 20 donors.
 
 * Meetup Group
 * The Labor Party membership
@@ -47,6 +47,7 @@ Donate through [devict.org/support](http://devict.org/support)
 ## Give a Talk
 * Great way to learn about a topic of interest.
 * Could be practice for presentation at a professional conference.
+* Can sign up on Google Sheets for devICT Presents found in Slack
 
 
 
@@ -82,12 +83,12 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Holiday Break!
+We need you to sign up!
 
 
 
 # Tonight!
 
-devICT: Presents: Trivia Night!! 
+devICT: Presents: Imposter Syndrom - How to Beat It by Jacob Hobbie
 
 
