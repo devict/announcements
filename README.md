@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu January 24th
+## Thu February 21st
 
 
 
@@ -75,7 +75,8 @@ Donate through [devict.org/support](http://devict.org/support)
 | ---------------- | ---------------------- | -------- | ---------- |
 | Study Hall       | Every Monday           | 7-9 PM   | TLP        |
 | Code & Coffee    | Every Thursday         | Mornings | TLP        |
-| Game Dev Potluck | First Saturday        | 10 AM    | TLP        |
+| Game Dev Potluck | First Saturday         | 10 AM    | TLP        |
+| Go Users Group   | Second Thursday        | 7-9 PM   | TLP
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
 
@@ -83,12 +84,12 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-We need you to sign up!
+Lighting Talks
 
 
 
 # Tonight!
 
-devICT: Presents: Imposter Syndrom - How to Beat It by Jacob Hobbie
+devICT: Presents: Not having a degree in a degree driven world by Michael Dorian
 
 
