@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu February 21st
+## Thu March 28th
 
 
 
@@ -84,12 +84,11 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Lighting Talks
+Cryptography for us mortals - for when you're forced to write crypto by Tanner Storment
 
 
 
 # Tonight!
 
-devICT: Presents: Not having a degree in a degree driven world by Michael Dorian
-
+devICT: Presents: Lighting talks!!!
 
