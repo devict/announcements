@@ -1,6 +1,6 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu March 28th
+## Thu April 25th
 
 
 
@@ -76,7 +76,7 @@ Donate through [devict.org/support](http://devict.org/support)
 | Study Hall       | Every Monday           | 7-9 PM   | TLP        |
 | Code & Coffee    | Every Thursday         | Mornings | TLP        |
 | Game Dev Potluck | First Saturday         | 10 AM    | TLP        |
-| Go Users Group   | Second Thursday        | 7-9 PM   | TLP
+| Go Users Group   | Second Thursday        | 7-9 PM   | TLP        |
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
 | devICT Presents  | Last Thursday          | 7 PM     | TLP        |
 
@@ -84,11 +84,11 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Cryptography for us mortals - for when you're forced to write crypto by Tanner Storment
+Cypress.io - An End to End Testing Framework by Sandip Southekal
 
 
 
 # Tonight!
 
-devICT: Presents: Lighting talks!!!
+devICT: Presents: Cryptography for us mortals - for when you're forced to write crypto by Tanner Storment
 
