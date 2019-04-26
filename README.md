@@ -63,11 +63,10 @@ Donate through [devict.org/support](http://devict.org/support)
 
 * MakeICT - makeict.org
 * Women Who Code - meetup.com/wwcwichita
-* Open Wichita - meetup.com/openwichita
+* Scrum ICT User Group - meetup.com//Scrum-ICT-User-Group
+* Wordpress ICT - meetup.com/WordPress-ICT
+* Wichita Java Users Group - meetup.com/Wichita-Java-Users-Group
 * WuLUG, Linux Group - facebook.com/wulug
-* Startup Wichita - startupwichita.com
-* Shocker Startup - facebook.com/shockerstartup
-* Wichitalks - wichitalks.com
 
 
 
