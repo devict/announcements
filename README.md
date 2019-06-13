@@ -1,7 +1,5 @@
 ![devICT](https://raw.githubusercontent.com/devict/Graphics/master/devict-logo.png)
 
-## Thu April 25th
-
 
 
 # About Us
