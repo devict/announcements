@@ -81,11 +81,11 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Cypress.io - An End to End Testing Framework by Sandip Southekal
+Who Knows!!
 
 
 
-# Tonight!
+# Now!
 
-devICT: Presents: Cryptography for us mortals - for when you're forced to write crypto by Tanner Storment
+devICT: Lunch and Learn
 
