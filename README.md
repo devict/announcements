@@ -33,7 +33,7 @@ Membership is free. Donations are appreciated.
 
 Monthly costs around **$101**
 
-Recurring monthly donations around **$103.03** from 20 donors.
+Recurring monthly donations around **$99** from 19 donors (<2% of #general).
 
 * Meetup Group
 * The Labor Party membership
