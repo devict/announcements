@@ -75,17 +75,17 @@ Donate through [devict.org/support](http://devict.org/support)
 | Game Dev Potluck | First Saturday         | 10 AM    | TLP        |
 | Go Users Group   | Second Thursday        | 7-9 PM   | TLP        |
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
-| devICT Presents  | Last Thursday          | 7 PM     | TLP        |
+| devICT Presents  | Forth Thursday          | 7 PM     | TLP        |
 
 
 
 # Next Month
 
-Who Knows!!
+Micro-services and Containerization by George Shaw
 
 
 
 # Now!
 
-devICT: Lunch and Learn
+devICT Presents: Cypress by Sandip
 
