@@ -39,6 +39,7 @@ Recurring monthly donations around **$99** from 19 donors (<2% of #general).
 * The Labor Party membership
 
 Donate through [devict.org/support](http://devict.org/support)
+Or, we are now on Amazon Smile!
 
 
 
@@ -61,7 +62,7 @@ Donate through [devict.org/support](http://devict.org/support)
 
 * MakeICT - makeict.org
 * Women Who Code - meetup.com/wwcwichita
-* Scrum ICT User Group - meetup.com//Scrum-ICT-User-Group
+* Agile Leadership Group - meetup.com/Agile-Leadership-Wichita/
 * Wordpress ICT - meetup.com/WordPress-ICT
 * Wichita Java Users Group - meetup.com/Wichita-Java-Users-Group
 * WuLUG, Linux Group - facebook.com/wulug
@@ -74,6 +75,7 @@ Donate through [devict.org/support](http://devict.org/support)
 | Code & Coffee    | Every Thursday         | Mornings | TLP        |
 | Game Dev Potluck | First Saturday         | 10 AM    | TLP        |
 | Go Users Group   | Second Thursday        | 7-9 PM   | TLP        |
+| devICT.Social()  | TBA                    | 7-9      | TLP
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
 | devICT Presents  | Forth Thursday          | 7 PM     | TLP        |
 
@@ -81,11 +83,11 @@ Donate through [devict.org/support](http://devict.org/support)
 
 # Next Month
 
-Micro-services and Containerization by George Shaw
+Comparing developer salaries between cities using R by Casey Woolfolk
 
 
 
 # Now!
 
-devICT Presents: Cypress by Sandip
+devICT Presents: Micro-services and Containerization by George Shaw
 
