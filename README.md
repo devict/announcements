@@ -14,7 +14,7 @@ devICT is dedicated to a **safe** and **harassment-free** experience for
 everyone. We do not tolerate harassment in **any form**.
 
 If you have any questions or concerns please feel free to reach out to one
-of the devICT organizers.
+of the devICT organizers. You can also anonymously [report a Code of Conduct Incident](http://devict.org/report/) if you observe or experience a violation of our Code of Conduct.
 
 Our anti-harassment policy can be found at:
 [devict.org/conduct](https://devict.org/conduct)
