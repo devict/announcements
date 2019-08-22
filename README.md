@@ -83,11 +83,11 @@ Or, we are now on Amazon Smile!
 
 # Next Month
 
-Comparing developer salaries between cities using R by Casey Woolfolk
+Let's talk money: My path to six figures by Jacob Walker
 
 
 
 # Now!
 
-devICT Presents: Micro-services and Containerization by George Shaw
+devICT Presents: Comparing developer salaries between cities using R by Casey Woolfolk
 
