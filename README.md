@@ -77,17 +77,18 @@ Or, we are now on Amazon Smile!
 | Go Users Group   | Second Thursday        | 7-9 PM   | TLP        |
 | devICT.Social()  | TBA                    | 7-9      | TLP
 | Dev Lunch        | Second Friday          | 11:30    | ???        |
-| devICT Presents  | Forth Thursday          | 7 PM     | TLP        |
+| devICT Presents  | Fourth Thursday        | 7 PM     | TLP        |
 
 
 
 # Next Month
+2nd annual devICT Halloween party with devICT.Social()
+Day TBA
 
-Let's talk money: My path to six figures by Jacob Walker
 
 
 
 # Now!
 
-devICT Presents: Comparing developer salaries between cities using R by Casey Woolfolk
+devICT Presents: Let's talk money: My path to six figures by Jacob Walker
 
