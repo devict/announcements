@@ -36,7 +36,7 @@ Monthly costs around **$106**
 Recurring monthly donations around **$99** from 19 donors (<2% of #general).
 
 * Meetup Group
-* The Labor Party membership
+* The Groover Labs membership
 
 Donate through [devict.org/support](http://devict.org/support)
 Or, we are now on Amazon Smile!
