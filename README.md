@@ -31,7 +31,7 @@ Our anti-harassment policy can be found at:
 ## Donate
 Membership is free. Donations are appreciated.
 
-Monthly costs around **$101**
+Monthly costs around **$106**
 
 Recurring monthly donations around **$99** from 19 donors (<2% of #general).
 
@@ -81,14 +81,15 @@ Or, we are now on Amazon Smile!
 
 
 
-# Next Month
-2nd annual devICT Halloween party with devICT.Social()
-Day TBA
+# Upcoming Events!
+Civic Tech Hackathon this weekend here at Groover Labs
+
+Library Tech Talks: Types are your friends! March 6th at 1 pm at the Advanced Learning Library 
 
 
 
 
 # Now!
 
-devICT Presents: Let's talk money: My path to six figures by Jacob Walker
+devICT Presents: Clojure hacks to grow you a carrot: problems made easy with lisp by Michael Doby
 
