@@ -82,14 +82,11 @@ Or, we are now on Amazon Smile!
 
 
 # Upcoming Events!
-Civic Tech Hackathon this weekend here at Groover Labs
-
-Library Tech Talks: Types are your friends! March 6th at 1 pm at the Advanced Learning Library 
+Who knows!!!
 
 
 
 
 # Now!
 
-devICT Presents: Clojure hacks to grow you a carrot: problems made easy with lisp by Michael Doby
-
+devICT Presents: Am I still a Programmer by Tonya Riepe
