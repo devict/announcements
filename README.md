@@ -89,4 +89,4 @@ Who knows!!!
 
 # Now!
 
-devICT Presents: Am I still a Programmer by Tonya Riepe
+devICT Presents: Marketing Basics all devs should Know Marisa VanSkiver
