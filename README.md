@@ -69,24 +69,16 @@ Or, we are now on Amazon Smile!
 
 
 
-| Event            | Schedule               | When     | Where      |
-| ---------------- | ---------------------- | -------- | ---------- |
-| Study Hall       | Every Monday           | 7-9 PM   | TLP        |
-| Code & Coffee    | Every Thursday         | Mornings | TLP        |
-| Game Dev Potluck | First Saturday         | 10 AM    | TLP        |
-| Go Users Group   | Second Thursday        | 7-9 PM   | TLP        |
-| devICT.Social()  | TBA                    | 7-9      | TLP
-| Dev Lunch        | Second Friday          | 11:30    | ???        |
-| devICT Presents  | Fourth Thursday        | 7 PM     | TLP        |
+All current events will be posted in our Meet Up. 
 
 
 
 # Upcoming Events!
-Who knows!!!
+Winter Break
 
 
 
 
 # Now!
 
-devICT Presents: Marketing Basics all devs should Know Marisa VanSkiver
+devICT Presents: The relationship and benefits between design and software development by Caleb Swank
